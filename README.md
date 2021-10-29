@@ -3,7 +3,7 @@
 a clicker template to accelerate development for the boys
 
 
-# 🛑 Warning: This will only work with specific settings. 🛑
+# 🛑 This will only work with specific settings. 🛑
 
 The following is required for this to function properly.
 ```bash
@@ -19,7 +19,7 @@ The following is recommended, not required:
 
 ## a simple zombie clicker game, using UMG for UI rendering.
 ## 🛑🛑 YOU MAY HAVE TO ASSIGN SPRITES AND SO ON YOURSELF 🛑🛑
-### 🛑🛑🛑🛑🛑🛑🛑🛑🛑 SEE THE CUSTOMASSETS FOLDER 🛑🛑🛑🛑🛑🛑🛑🛑🛑
+### 🛑🛑🛑🛑🛑🛑🛑🛑🛑SEE THE CUSTOMASSETS FOLDER🛑🛑🛑🛑🛑🛑🛑🛑🛑
 
 ## Level Blueprint //
 ```bash
