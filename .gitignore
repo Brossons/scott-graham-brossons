@@ -1,10 +1,12 @@
 # Visual Studio 2015 user specific files
 Widgets/.vs/
 
- Binaries/
- Intermediate/
- Saved/
- Widgets.opensdf
- Widgets.sdf
- Widgets.sln
- Widgets.v0.0001.suo
+Widgets/Binaries/
+Widgets/Intermediate/
+Widgets/Saved/
+Widgets.opensdf
+Widgets.sdf
+Widgets.sln
+Widgets.v0.0001.suo
+Widgets/DerivedDataCache/
+*.opensdf
